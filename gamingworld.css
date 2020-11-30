@@ -1,0 +1,98 @@
+body{
+    background-image:url('batty.jpg');
+    background-position:left-bottom;
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+}
+ul{
+    list-style:none;
+    margin:0;
+    padding:0;
+    overflow:hidden;
+    background-color:no-color;
+    text-align:center;
+      
+    
+    
+}
+li{
+    float:left;
+    font-size:15px;
+    
+}
+li a{
+    display:block;
+    color:#ffee00;
+    text-align:center;
+    padding: 10px 50px;
+    text-decoration:none;
+    
+}
+li a:hover{
+    background-color:violet;
+    color:#ffee00;
+}
+h1{
+    width:1500;
+    color:#ff8c00;
+    font-family:Lato;
+    font-size:50px;
+    text-align:center;
+    text-shadow:1px 1px;  
+    
+}
+h2{
+    font-family:Lato;
+    color:#95ff00;
+    font-size:35px;
+    text-align:center;
+    margin-top:60px;
+    
+    
+}
+table{
+    font-family:Lato;
+    border-collapse:collapse;
+    width:40%;
+    text-align:center;
+    margin-top:40px;
+    
+}
+th{
+    font-size:20px;
+    text-align:center;
+    padding-top:1px;
+    background-color:white;
+       
+    
+}
+td{
+    font-family:Lato;
+    font-size:18px;
+    text-align:center;
+    background-color:no-color;
+    padding:1px;   
+    
+}
+tr:nth-child(odd)
+{
+    background-color:white;
+        
+}
+tr:nth-child(even)
+{
+    background-color:blue;
+    }
+      
+    .footer{
+        position:fixed;
+        left:0;
+        bottom:0;
+        width:100%;
+        background-color:no-color;
+        color:#ffa90a;
+        text-align:center;
+        font-size:30px;
+        
+        
+    }

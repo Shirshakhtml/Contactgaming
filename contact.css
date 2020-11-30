@@ -1,0 +1,52 @@
+body{
+    background-image:url('cloud.jpg');
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+    margin:0;    
+}
+.sidenav
+{
+    height:10%;
+    width:150px;
+    width:100%;
+    position:center;
+    background-color:no-color;
+    padding-top:30px;
+}
+.sidenav a{
+     padding:30px 30px 20px;
+     font-size:20px;
+     text-decoration:none;
+     color:white;
+     text-align:center;
+}
+.sidenav a:hover
+{
+    color:#ffa90a;
+}
+h1{
+    font-size:35px;
+    color:#ffa90a;
+    padding-top:50px;
+    padding-left:38%;
+    font-family:lato;
+}
+h2{
+     padding-top:50px;
+     padding-left:39%;
+     font-size:25px;
+     font-family:lato;
+     color:#09e6b6;   
+}
+.footer{
+     position:fixed;
+     color:#fc05c3;
+     left:0;
+     bottom:0;
+     width:100%;
+     text-align:center;
+     font-family:lato;
+     font-size:20px;
+}     
+    
+    
